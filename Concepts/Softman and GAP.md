@@ -1,0 +1,1 @@
+# SoftMax, Negative Log Likelihood, GAP
